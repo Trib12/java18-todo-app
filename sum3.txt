@@ -1,0 +1,8 @@
+private int sum(int a, int b, int c)
+{
+	if (a+b+c>interger.max)
+{
+	threo new RunimeExeption("A+b+c must not be exceeded max number")
+}
+	return a+b+c;
+}
